@@ -1,4 +1,4 @@
-# NFT Smart Contracts Hardhat Project
+# NFT Marketplace Smart Contracts Hardhat Project
 
 <div id="top"></div>
 
